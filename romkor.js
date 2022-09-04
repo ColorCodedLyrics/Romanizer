@@ -8736,6 +8736,10 @@ syl = syl.replace(/geotneun/g, "geonneun");
 syl = syl.replace(/ttatteushake/g, "ttatteuthage");
 syl = syl.replace(/viorence/g, "violence");
 syl = syl.replace(/whore/g, "whole");
+syl = syl.replace(/dolikyeodo/g, "dorikyeodo");
+syl = syl.replace(/puleoseo/g, "pureoseo");
+syl = syl.replace(/noha/g, "noa");
+syl = syl.replace(/oneuleul/g, "oneureul");
 	
 //english word corrections that don't interfer with korean words
 
