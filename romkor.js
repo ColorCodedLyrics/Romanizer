@@ -8744,7 +8744,6 @@ syl = syl.replace(/heurishaetteon/g, "heurithaetteon");
 syl = syl.replace(/tteostteoshi/g, "tteottteoshi");
 syl = syl.replace(/noli/g, "nori");
 syl = syl.replace(/seullingsyas/g, "seullingshyat");
-syl = syl.replace(/10분/g, "shipbun");
 	
 //english word corrections that don't interfer with korean words
 
