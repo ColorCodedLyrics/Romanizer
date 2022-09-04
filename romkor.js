@@ -8740,6 +8740,7 @@ syl = syl.replace(/dolikyeodo/g, "dorikyeodo");
 syl = syl.replace(/puleoseo/g, "pureoseo");
 syl = syl.replace(/noha/g, "noa");
 syl = syl.replace(/oneuleul/g, "oneureul");
+syl = syl.replace(/heurishaetteon/g, "heurithaetteon");
 	
 //english word corrections that don't interfer with korean words
 
