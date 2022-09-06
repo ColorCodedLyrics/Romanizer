@@ -8751,6 +8751,7 @@ syl = syl.replace(/kkoch/g, "kkot");
 syl = syl.replace(/shibeunde/g, "shipeunde");
 syl = syl.replace(/shibeo/g, "shipeo");
 syl = syl.replace(/byeoldeuleul/g, "byeoldeureul");
+syl = syl.replace(/deoch/g, "deot");
 	
 //english word corrections that don't interfer with korean words
 
