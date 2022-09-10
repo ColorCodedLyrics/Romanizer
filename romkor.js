@@ -8470,14 +8470,14 @@ syl = syl.replace(/yyelhan/g, "yuilhan"); //유일한
 
 
 // where h is not pronounced
-syl = syl.replace(/anhjanha/g, "anjana"); //않잖아 
-syl = syl.replace(/anhgiro/g, "angiro"); //않기로
+syl = syl.replace(/anhjanha/g, "anchana"); //않잖아 
+syl = syl.replace(/anhgiro/g, "ankiro"); //않기로
 syl = syl.replace(/anheun/g, "aneun"); //않는
 syl = syl.replace(/anhneun/g, "anneun"); //않는
-syl = syl.replace(/anhge/g, "anke"); //않  
+syl = syl.replace(/anhge/g, "anke"); //않게  
 //syl = syl.replace(/anha/g, "ana"); //않아
 syl = syl.replace(/anheul/g, "aneul"); //않을 
-syl = syl.replace(/anhgo/g, "ango"); //않고
+syl = syl.replace(/anhgo/g, "anko"); //않고
 syl = syl.replace(/janha/g, "jana"); //잖아 
 syl = syl.replace(/joha/g, "joa"); //좋아 
 syl = syl.replace(/joheun/g, "joeun"); //좋아 
@@ -8752,7 +8752,6 @@ syl = syl.replace(/shibeunde/g, "shipeunde");
 syl = syl.replace(/shibeo/g, "shipeo");
 syl = syl.replace(/byeoldeuleul/g, "byeoldeureul");
 syl = syl.replace(/deoch/g, "deot");
-syl = syl.replace(/않고/g, "anko");
 	
 //english word corrections that don't interfer with korean words
 
