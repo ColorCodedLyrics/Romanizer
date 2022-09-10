@@ -8549,7 +8549,6 @@ syl = syl.replace(/shwis/g, "shwit");
 syl = syl.replace(/shilheunde/g, "shireunde");
 syl = syl.replace(/shilheungeol/g, "shireungeol");
 syl = syl.replace(/joheunde/g, "joeunde");
-syl = syl.replace(/anhjana/g, "anjana");
 syl = syl.replace(/saengganga/g, "saenggangna");
 syl = syl.replace(/dabdabhan/g, "dapdaphan");
 syl = syl.replace(/geobnaeji/g, "geopnaeji");
@@ -8752,6 +8751,18 @@ syl = syl.replace(/shibeunde/g, "shipeunde");
 syl = syl.replace(/shibeo/g, "shipeo");
 syl = syl.replace(/byeoldeuleul/g, "byeoldeureul");
 syl = syl.replace(/deoch/g, "deot");
+syl = syl.replace(/uleo/g, "ureo");
+syl = syl.replace(/bileo/g, "bireo");
+syl = syl.replace(/uleojweo/g, "ureojweo");
+syl = syl.replace(/Whore/g, "Whole");
+syl = syl.replace(/shiljimaneun/g, "shilchimaneun");
+syl = syl.replace(/neuleo/g, "neureo");
+syl = syl.replace(/eopsgil/g, "eopgil");
+syl = syl.replace(/naeili/g, "naeiri");
+syl = syl.replace(/battie/g, "baddie");
+syl = syl.replace(/batty/g, "baddy");
+syl = syl.replace(/wiseugi/g, "wiseuki");
+
 	
 //english word corrections that don't interfer with korean words
 
