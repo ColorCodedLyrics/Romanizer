@@ -8763,7 +8763,7 @@ syl = syl.replace(/battie/g, "baddie");
 syl = syl.replace(/batty/g, "baddy");
 syl = syl.replace(/wiseugi/g, "wiseuki");
 syl = syl.replace(/saranghaessgo/g, "saranghaetgo");
-
+syl = syl.replace(/kkulheo/g, "kkureo");
 	
 //english word corrections that don't interfer with korean words
 
