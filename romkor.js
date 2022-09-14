@@ -8765,6 +8765,10 @@ syl = syl.replace(/wiseugi/g, "wiseuki");
 syl = syl.replace(/saranghaessgo/g, "saranghaetgo");
 syl = syl.replace(/kkulheo/g, "kkureo");
 syl = syl.replace(/najchweo/g, "natchweo");
+syl = syl.replace(/maledo/g, "maredo");
+syl = syl.replace(/haessgo/g, "haetgo");
+syl = syl.replace (/nale/g, "nare");
+
 	
 //english word corrections that don't interfer with korean words
 
