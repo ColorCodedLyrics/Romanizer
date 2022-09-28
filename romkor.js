@@ -8767,8 +8767,13 @@ syl = syl.replace(/kkulheo/g, "kkureo");
 syl = syl.replace(/najchweo/g, "natchweo");
 syl = syl.replace(/maledo/g, "maredo");
 syl = syl.replace(/haessgo/g, "haetgo");
-syl = syl.replace (/nale/g, "nare");
-
+syl = syl.replace(/nale/g, "nare");
+syl = syl.replace(/ttulhgo/g, "ttulko");
+syl = syl.replace(/jjarishake/g, "jjarithage");
+syl = syl.replace(/ileona/g, "ireona");
+syl = syl.replace(/saekkkaleul/g, "saekkkareul");
+syl = syl.replace(/ilheun/g, "ireun");
+syl = syl.replace(/gibeun/g, "gipeun");
 	
 //english word corrections that don't interfer with korean words
 
