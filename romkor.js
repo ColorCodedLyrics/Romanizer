@@ -8774,6 +8774,8 @@ syl = syl.replace(/ileona/g, "ireona");
 syl = syl.replace(/saekkkaleul/g, "saekkkareul");
 syl = syl.replace(/ilheun/g, "ireun");
 syl = syl.replace(/gibeun/g, "gipeun");
+syl = syl.replace(/iyyel/g, "iyuil");
+syl = syl.replace(/butyeo/g, "buchyeo");
 	
 //english word corrections that don't interfer with korean words
 
