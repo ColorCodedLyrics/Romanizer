@@ -8776,8 +8776,12 @@ syl = syl.replace(/ilheun/g, "ireun");
 syl = syl.replace(/gibeun/g, "gipeun");
 syl = syl.replace(/iyyel/g, "iyuil");
 syl = syl.replace(/butyeo/g, "buchyeo");
+syl = syl.replace(/ijji/g, "itji");
+syl = syl.replace(/shibeun/g, "shipeun");
+syl = syl.replace(/meomchishake/g, "meomchithage");
+
 	
-//english word corrections that don't interfer with korean words
+//english word corrections that don't interfere with korean words
 
 document.romanization.rom.value=syl;
 }
