@@ -8788,7 +8788,8 @@ syl = syl.replace(/japa/g, "jaba");
 syl = syl.replace(/mas/g, "mat");
 syl = syl.replace(/kkeos/g, "kkeot");
 syl = syl.replace(/eodugeomkeom/g, "eodukeomkeom");
-
+syl = syl.replace(/amulaedo/g, "amuraedo");
+syl = syl.replace(/salang/g, "sarang");
 	
 //english word corrections that don't interfere with korean words
 
