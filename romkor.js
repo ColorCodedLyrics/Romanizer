@@ -8790,6 +8790,10 @@ syl = syl.replace(/kkeos/g, "kkeot");
 syl = syl.replace(/eodugeomkeom/g, "eodukeomkeom");
 syl = syl.replace(/amulaedo/g, "amuraedo");
 syl = syl.replace(/salang/g, "sarang");
+syl = syl.replace(/nolae/g, "norae");
+syl = syl.replace(/shigeu/g, "shikeu");
+syl = syl.replace(/nalang/g, "narang");
+syl = syl.replace(/biseus/g, "biseut");
 	
 //english word corrections that don't interfere with korean words
 
