@@ -8520,7 +8520,6 @@ syl = syl.replace(/noheun/g, "noeun");
 syl = syl.replace(/subiran/g, "supiran");
 syl = syl.replace(/dabhae/g, "daphae");
 syl = syl.replace(/salado/g, "sarado");
-syl = syl.replace(/kkochip/g, "kkonip");
 syl = syl.replace(/buleoneoheojweo/g, "bureoneoeojweo");
 syl = syl.replace(/kkochip/g, "konnip");
 syl = syl.replace(/shibeoyo/g, "shipeoyo");
@@ -8805,6 +8804,7 @@ syl = syl.replace(/neolan/g, "neoran");
 syl = syl.replace(/geulae/g, "geurae");
 syl = syl.replace(/ttala/g, "ttara");
 syl = syl.replace(/sala/g, "sara");
+syl = syl.replace(/alreuksandeuro/g, "alleuksandeuro");
 	
 //english word corrections that don't interfere with korean words
 
