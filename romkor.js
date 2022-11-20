@@ -8805,6 +8805,19 @@ syl = syl.replace(/geulae/g, "geurae");
 syl = syl.replace(/ttala/g, "ttara");
 syl = syl.replace(/sala/g, "sara");
 syl = syl.replace(/alreuksandeuro/g, "alleuksandeuro");
+syl = syl.replace(/jjaris/g, "jjarit");
+syl = syl.replace(/arive/g, "alive");
+syl = syl.replace(/stlaight/g, "straight");
+syl = syl.replace(/anha/g, "ana");
+syl = syl.replace(/olae/g, "orae");
+syl = syl.replace(/dapi/g, "dabi");
+syl = syl.replace(/Christmat/g, "Christmas");
+syl = syl.replace(/palanbul/g, "paranbul");
+syl = syl.replace(/dale/g, "dare");
+syl = syl.replace(/gile/g, "gire");
+syl = syl.replace(/geureohdamyeo/g, "geureotamyeo");
+syl = syl.replace(/majchum/g, "matchum");
+syl = syl.replace(/joapi/g, "johabi");
 	
 //english word corrections that don't interfere with korean words
 
