@@ -8411,8 +8411,8 @@ syl = syl.replace(/hashage/g, "hathage");
 //  의-  
 syl = syl.replace(/yeshim/g, "uishim"); //의심 
 syl = syl.replace(/yeshik/g, "uishik"); //의식
-syl = syl.replace(/yemi/g, "euimi"); //의미 
-syl = syl.replace(/yemuin/g, "euimuin"); //의무인 
+syl = syl.replace(/yemi/g, "uimi"); //의미 
+syl = syl.replace(/yemuin/g, "uimuin"); //의무인 
 syl = syl.replace(/yemun/g, "uimun"); //의문  
 
 //  -의  
@@ -8818,6 +8818,28 @@ syl = syl.replace(/gile/g, "gire");
 syl = syl.replace(/geureohdamyeo/g, "geureotamyeo");
 syl = syl.replace(/majchum/g, "matchum");
 syl = syl.replace(/joapi/g, "johabi");
+syl = syl.replace(/geolamyeon/g, "georamyeon");
+syl = syl.replace(/dolaga/g, "doraga");
+syl = syl.replace(/dalanaji/g, "daranaji");
+syl = syl.replace(/nalan/g, "naran");
+syl = syl.replace(/ipen/g, "iben");
+syl = syl.replace(/ala/g, "ara");
+syl = syl.replace(/paleul/g, "pareul");
+syl = syl.replace(/haessale/g, "haessarae");
+syl = syl.replace(/euimin/g, "yemin");
+syl = syl.replace(/honett/g, "honest");
+syl = syl.replace(/dalaoreuji/g, "daraoreuji");
+syl = syl.replace(/mathyeo/g, "mashyeo");
+syl = syl.replace(/ipsule/g, "ipsure");
+syl = syl.replace(/joheulkka/g, "joeulkka");
+syl = syl.replace(/shilkeos/g, "shilkeot");
+syl = syl.replace(/dwaessgeodeun/g, "dwaettgeodeun");
+syl = syl.replace(/jjuppisjjuppis/g, "jjuppitjjuppit");
+syl = syl.replace(/nunttongja/g, "nundongja");
+syl = syl.replace(/bolatbiche/g, "boratbiche");
+syl = syl.replace(/minnight/g, "midnight");
+syl = syl.replace(/alabwa/g, "arabwa");
+syl = syl.replace(/eodila/g, "eodira");
 	
 //english word corrections that don't interfere with korean words
 
