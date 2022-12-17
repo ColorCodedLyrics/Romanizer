@@ -8862,7 +8862,7 @@ syl = syl.replace(/goth/g, "gosh");
 syl = syl.replace(/alrimeun/g, "allimeun");
 syl = syl.replace(/ili/g, "iri");
 syl = syl.replace(/balpa/g, "balba");
-syl = syl.replace(/kkeutnaji/g, "kkeunnaji");
+syl = syl.replace(/kkeutna/g, "kkeunna");
 syl = syl.replace(/ekseleul/g, "eksereul");
 syl = syl.replace(/claft/g, "craft");
 syl = syl.replace(/mangseolil/g, "mangseoril");
@@ -8885,6 +8885,24 @@ syl = syl.replace(/jigyeojweo/g, "jikyeojweo");
 syl = syl.replace(/Genelation/g, "Generation");
 syl = syl.replace(/seutepeul/g, "seutebeul");
 syl = syl.replace(/dola/g, "dora");
+syl = syl.replce(/beopeul/g, "beobeul");
+syl = syl.replce(/nolabwa/g, "norabwa");
+syl = syl.replce(/ipeo/g, "ibeo");
+syl = syl.replce(/eumaki/g, "eumagi");
+syl = syl.replce(/mulgamdeuleul/g, "mulgamdeureul");
+syl = syl.replce(/byeoke/g, "byeoge");
+syl = syl.replce(/Glaffiti/g, "Graffiti");
+syl = syl.replce(/dlawing/g, "drawing");
+syl = syl.replce(/tlacks/g, "tracks");
+syl = syl.replce(/shinbaleun/g, "shinbareun");
+syl = syl.replce(/eumakinji/g, "eumaginji");
+syl = syl.replce(/glaceful/g, "graceful");
+syl = syl.replce(/bujoghan/g, "bujokhan");
+syl = syl.replace(/amegaji/g, "amekaji");
+syl = syl.replace(/mokkeoli/g, "mokgeori");
+syl = syl.replace(/yeodeolpeul/g, "yeodeolbeul");
+syl = syl.replace(/baetseo/g, "baesseo");
+syl = syl.replace(/beulaendeu/g, "beuraendeu");
 	
 //english word corrections that don't interfere with korean words
 
