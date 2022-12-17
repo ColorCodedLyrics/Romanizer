@@ -8782,7 +8782,6 @@ syl = syl.replace(/syung/g, "shyung");
 syl = syl.replace(/meomchishada/g, "meomchithada");
 syl = syl.replace(/jjotneundamyeon/g, "jjonneundamyeon");
 syl = syl.replace(/ralla/g, "lalla");
-syl = syl.replace(/ra/g, "la");
 syl = syl.replace(/japa/g, "jaba");
 syl = syl.replace(/mas/g, "mat");
 syl = syl.replace(/kkeos/g, "kkeot");
