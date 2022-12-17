@@ -8840,7 +8840,24 @@ syl = syl.replace(/bolatbiche/g, "boratbiche");
 syl = syl.replace(/minnight/g, "midnight");
 syl = syl.replace(/alabwa/g, "arabwa");
 syl = syl.replace(/eodila/g, "eodira");
-	
+syl = syl.replace(/gudhyeotjiman/g, "guchyeotjiman");
+syl = syl.replace(/dadhigi/g, "dachigi");
+syl = syl.replace(/gyejeole/g, "gyejeore");
+syl = syl.replace(/cholahage/g, "chorahage");
+syl = syl.replace(/yeongweonilan/g, "yeongweoniran");
+syl = syl.replace(/heeojimilan/g, "heeojimiran");
+syl = syl.replace(/dolaseomyeon/g, "doraseomyeon");
+syl = syl.replace(/famiry/g, "family");
+syl = syl.replace(/happinets/g, "happiness");
+syl = syl.replace(/hory/g, "holy");
+syl = syl.replace(/jaegis/g, "jaekit");
+syl = syl.replace(/wednettay/g, "wednesday");
+syl = syl.replace(/keos/g, "keot");
+syl = syl.replace(/saramila/g, "saramira");
+syl = syl.replace(/bale/g, "bare");
+syl = syl.replace(/deulama/g, "deurama");
+syl = syl.replace(/shage/g, "shake");
+
 //english word corrections that don't interfere with korean words
 
 document.romanization.rom.value=syl;
