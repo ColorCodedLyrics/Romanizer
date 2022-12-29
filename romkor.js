@@ -8866,6 +8866,7 @@ syl = syl.replace(/raepeuro/g, "raebeuro");
 syl = syl.replace(/tashae/g, "tathae");
 syl = syl.replace(/moseupeun/g, "moseubeun");
 syl = syl.replace(/hyeonshili/g, "hyeonshiri");
+syl = syl.replace(/셋 /g, "set ");
 	
 //english word corrections that don't interfere with korean words
 
