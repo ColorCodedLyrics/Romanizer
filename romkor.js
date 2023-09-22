@@ -8903,6 +8903,37 @@ syl = syl.replace(/gadhin/g, "gachin");
 syl = syl.replace(/jitnureul/g, "jinnureul");
 syl = syl.replace(/hanadulses/g, "hanadulset");
 syl = syl.replace(/anhjyo/g, "anchyo");
+syl = syl.replace(/jilteljido/g, "jiltuiljido");
+syl = syl.replace(/meosi/g, "meoshi");
+syl = syl.replace(/matitge/g, "mashitge");
+syl = syl.replace(/matinneun/g, "mashinneun");
+syl = syl.replace(/geuljatshik/g, "geuljasshik");
+syl = syl.replace(/majseobojago/g, "matsseobojago");
+syl = syl.replace(/heurishal/g, "heurthal");
+syl = syl.replace(/sadnets/g, "sadness");
+syl = syl.replace(/matk/g, "mask");
+syl = syl.replace(/headlinet/g, "headlines");
+syl = syl.replace(/mueosi/g, "mueoshi");
+syl = syl.replace(/almott/g, "almost");
+syl = syl.replace(/nohin/g, "noin");
+syl = syl.replace(/nunchichaessgetji/g, "nunchichaetgetji");
+syl = syl.replace(/hungny/g, "hungry");
+syl = syl.replace(/gadhinchae/g, "gachinchae");
+syl = syl.replace(/maganoheulge/g, "maganoeulge");
+syl = syl.replace(/gotsip/g, "gossip");
+syl = syl.replace(/neurishake/g, "neuritage");
+syl = syl.replace(/taeulsetge/g, "taeulsuitge");
+syl = syl.replace(/anhdae/g, "antae");
+syl = syl.replace(/jalmosiraneun/g, "jalmoshiraneun");
+syl = syl.replace(/garaanjneun/g, "garaanneun");
+syl = syl.replace(/geureohdago/g, "geureotago");
+syl = syl.replace(/osgeoli/g, "otgeori");
+syl = syl.replace(/chasjip/g, "chatjip");
+syl = syl.replace(/sweetnets/g, "sweetness");
+syl = syl.replace(/jecy/g, "juicy");
+syl = syl.replace(/meomchis/g, "meomchit");
+syl = syl.replace(/usdeon/g, "utteon");
+syl = syl.replace(/ses/g, "set");
 	
 //english word corrections that don't interfere with korean words
 
