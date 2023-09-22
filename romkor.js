@@ -8878,6 +8878,31 @@ syl = syl.replace(/nachseoreo/g, "natsseoreo");
 syl = syl.replace(/ileo/g, "ireo");
 syl = syl.replace(/kkoteun/g, "kkocheun");
 syl = syl.replace(/usge/g, "utge");
+syl = syl.replace(/neoksi/g, "neokshi");
+syl = syl.replace(/mangseolini/g, "mangseorini");
+syl = syl.replace(/geureohko/g, "geureoko");
+syl = syl.replace(/aradeudne/g, "aradeunne");
+syl = syl.replace(/heoltteudne/g, "heoltteunne");
+syl = syl.replace(/gwaenchanhdago/g, "gwaenchantago");
+syl = syl.replace(/deuleul/g, "deureul");
+syl = syl.replace(/eopsgo/g, "eopgo");
+syl = syl.replace(/uurhaettagado/g, "uulhaettagado");
+syl = syl.replace(/haessgetji/g, "haetgetji");
+syl = syl.replace(/geureohdagoneun/g, "geureotagoneun");
+syl = syl.replace(/makeuryeo/g, "mageuryeo");
+syl = syl.replace(/akeul/g, "ageul");
+syl = syl.replace(/deudja/g, "deutja");
+syl = syl.replace(/chogollis/g, "chokollit");
+syl = syl.replace(/matni/g, "manni");
+syl = syl.replace(/manhni/g, "manni");
+syl = syl.replace(/ihaebadneun/g, "ihaebanneun");
+syl = syl.replace(/johke/g, "joke");
+syl = syl.replace(/ijgo/g, "itgo");
+syl = syl.replace(/jikseoli/g, "jikseori");
+syl = syl.replace(/gadhin/g, "gachin");
+syl = syl.replace(/jitnureul/g, "jinnureul");
+syl = syl.replace(/hanadulses/g, "hanadulset");
+syl = syl.replace(/anhjyo/g, "anchyo");
 	
 //english word corrections that don't interfere with korean words
 
