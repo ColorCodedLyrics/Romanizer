@@ -8970,6 +8970,8 @@ syl = syl.replace(/dwaessgeon/g, "dwaetgeon");
 syl = syl.replace(/gosin/g, "goshin");
 syl = syl.replace(/kkotin/g, "kkochin");
 syl = syl.replace(/getar/g, "guitar");
+syl = syl.replace(/Parace/g, "Palace");
+syl = syl.replace(/setang/g, "sesang");
 	
 //english word corrections that don't interfere with korean words
 
