@@ -8972,6 +8972,26 @@ syl = syl.replace(/kkotin/g, "kkochin");
 syl = syl.replace(/getar/g, "guitar");
 syl = syl.replace(/Parace/g, "Palace");
 syl = syl.replace(/setang/g, "sesang");
+syl = syl.replace(/avairable/g, "available");
+syl = syl.replace(/Garireo/g, "Galileo");
+syl = syl.replace(/jeonguihae/g, "jeongihae");
+syl = syl.replace(/larara/g, "lalala");
+syl = syl.replace(/grats/g, "grass");
+syl = syl.replace(/kkoti/g, "kkochi");
+syl = syl.replace(/hanbachang/g, "hanbatang");
+syl = syl.replace(/geureohji/g, "geureochi");
+syl = syl.replace(/cheoli/g, "cheori");
+syl = syl.replace(/syaweo/g, "shyaweo");
+syl = syl.replace(/pamudhyeoitteon/g, "pamutchyeoitteon");
+syl = syl.replace(/gisbareul/g, "gitbareul");
+syl = syl.replace(/dahkopa/g, "dakopa");
+syl = syl.replace(/jjirishan/g, "jjirithan");
+syl = syl.replace(/faburous/g, "fabulous");
+syl = syl.replace(/crath/g, "crash");
+syl = syl.replace(/Carifornia/g, "California");
+syl = syl.replace(/daseos/g, "daseot");
+syl = syl.replace(/shilhdamyeon/g, "shiltamyeon");
+syl = syl.replace(/bitwosseo/g, "bichweosseo");
 	
 //english word corrections that don't interfere with korean words
 
