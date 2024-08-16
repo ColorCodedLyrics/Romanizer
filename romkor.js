@@ -8995,7 +8995,7 @@ syl = syl.replace(/bitwosseo/g, "bichweosseo");
 syl = syl.replace(/moreugessgo/g, "moreugetgo");
 syl = syl.replace(/anhgil/g, "ankil");
 	
-//english word corrections that don't interfere with korean words
+//english word corrections that don't interfere with korean words . . .
 
 document.romanization.rom.value=syl;
 }
