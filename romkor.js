@@ -9001,6 +9001,8 @@ syl = syl.replace(/kkeunhgesseo/g, "kkeunkesseo");
 syl = syl.replace(/shilji/g, "shilchi");
 syl = syl.replace(/seonggyeoki/g, "seonggyeogi");
 syl = syl.replace(/gwanan/g, "gwanhan");
+syl = syl.replace(/ppikkeushaneun/g, "ppikkeuthaneun");
+syl = syl.replace(/geotjapeul/g, "geotjabeul");
 	
 //english word corrections that don't interfere with korean words . . .
 
