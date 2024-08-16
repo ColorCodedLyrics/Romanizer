@@ -8993,6 +8993,7 @@ syl = syl.replace(/daseos/g, "daseot");
 syl = syl.replace(/shilhdamyeon/g, "shiltamyeon");
 syl = syl.replace(/bitwosseo/g, "bichweosseo");
 syl = syl.replace(/moreugessgo/g, "moreugetgo");
+syl = syl.replace(/anhgil/g, "ankil");
 	
 //english word corrections that don't interfere with korean words
 
