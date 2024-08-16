@@ -8992,6 +8992,7 @@ syl = syl.replace(/Carifornia/g, "California");
 syl = syl.replace(/daseos/g, "daseot");
 syl = syl.replace(/shilhdamyeon/g, "shiltamyeon");
 syl = syl.replace(/bitwosseo/g, "bichweosseo");
+syl = syl.replace(/moreugessgo/g, "moreugetgo");
 	
 //english word corrections that don't interfere with korean words
 
