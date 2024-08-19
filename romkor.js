@@ -9013,6 +9013,10 @@ syl = syl.replace(/chosbulcheoreom/g, "chotbulcheoreom");
 syl = syl.replace(/challanaetteon/g, "challanhaetteon");
 syl = syl.replace(/deudneun/g, "deunneun");
 syl = syl.replace(/tteusbakke/g, "tteutbakke");
+syl = syl.replace(/naldeule/g, "naldeure");
+syl = syl.replace(/kkeunhji/g, "kkeunchi");
+syl = syl.replace(/gyeoti/g, "gyeochi");
+syl = syl.replace(/barance/g, "balance");
 	
 //english word corrections that don't interfere with korean words . . .
 
