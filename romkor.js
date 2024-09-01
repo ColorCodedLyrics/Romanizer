@@ -9017,6 +9017,7 @@ syl = syl.replace(/naldeule/g, "naldeure");
 syl = syl.replace(/kkeunhji/g, "kkeunchi");
 syl = syl.replace(/gyeoti/g, "gyeochi");
 syl = syl.replace(/barance/g, "balance");
+syl = syl.replace(/캌/g, "kak");
 	
 //english word corrections that don't interfere with korean words . . .
 
